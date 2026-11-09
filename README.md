@@ -30,7 +30,7 @@ The images will be prepared and divided into training, validation, and test sets
 
 | Member | Responsibilities |
 |---|---|
-| **Ahmed (Team Lead)** | GitHub management, EDA, preprocessing, data splitting, Model A, Week 4 status update |
+| **Ahmed** | GitHub management, EDA, preprocessing, data splitting, Model A, Week 4 status update |
 | **Akua** | Model B, code integration, technical report |
 | **Sai** | Model C, model evaluation and comparison, slides, video, final submission |
 
@@ -70,23 +70,19 @@ We will also review overfitting, model limitations, and possible improvements.
 
 ## Project Status
 
-- [ ] Project and dataset selection
-- [ ] Team responsibilities
-- [ ] GitHub repository setup
-- [ ] Data exploration (EDA)
-- [ ] Data preprocessing and splitting
-- [ ] Model A: CNN
-- [ ] Model B: MobileNetV2
-- [ ] Model C: EfficientNetB0
-- [ ] Model evaluation and comparison
-- [ ] Code integration and testing
-- [ ] Technical report
-- [ ] Slides and video presentation
-- [ ] Final submission
-
-## How to Run
-
-Google Colab notebooks and instructions will be added as the project progresses.
+-  Project and dataset selection
+-  Team responsibilities
+-  GitHub repository setup
+-  Data exploration (EDA)
+-  Data preprocessing and splitting
+-  Model A: CNN
+-  Model B: MobileNetV2
+-  Model C: EfficientNetB0
+-  Model evaluation and comparison
+-  Code integration and testing
+-  Technical report
+-  Slides and video presentation
+-  Final submission
 
 ## Final Deliverables
 
