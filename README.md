@@ -6,7 +6,6 @@
 This project uses computer vision to classify satellite images into different land-cover categories. We will use the EuroSAT dataset and compare three deep learning models to see which performs best.
 
 **Course:** AAI-521 Applied Computer Vision for AI 
-
 **University:** University of San Diego  
 **Team:** Group 4
 
