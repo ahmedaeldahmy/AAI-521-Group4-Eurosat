@@ -1,0 +1,19 @@
+{
+  "model": "A - Baseline CNN",
+  "dataset": "EuroSAT RGB (Zenodo)",
+  "split_seed": 42,
+  "train_count": 18900,
+  "val_count": 4050,
+  "test_count": 4050,
+  "best_epoch": 20,
+  "best_epoch_train_accuracy": 0.8875132203102112,
+  "best_epoch_validation_accuracy": 0.8817284107208252,
+  "best_epoch_accuracy_gap": 0.005784809589385986,
+  "best_validation_loss": 0.3351868987083435,
+  "test_loss": 0.31525686383247375,
+  "test_accuracy": 0.890617311000824,
+  "test_macro_precision": 0.8884221734086026,
+  "test_macro_recall": 0.8871333333333334,
+  "test_macro_f1": 0.8865033153440642,
+  "parameters": 1143242
+}
