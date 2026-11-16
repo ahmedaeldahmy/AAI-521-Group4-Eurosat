@@ -5,6 +5,8 @@
 
 This project uses computer vision to classify satellite images into different land-cover categories. We will use the EuroSAT dataset and compare three deep learning models to see which performs best.
 
+EuroSAT is 27,000 small satellite photos of land in Europe, labeled as one of 10 types: crops, forest, vegetation, highway, industrial, pasture, residential, river, or sea/lake.
+
 **Course:** AAI-521 Applied Computer Vision for AI 
  
 **Team:** Group 4
