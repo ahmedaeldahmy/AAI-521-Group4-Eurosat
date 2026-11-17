@@ -3,7 +3,12 @@
 
 ## Project Overview
 
-This project uses computer vision to classify satellite images into different land-cover categories. We will use the EuroSAT dataset and compare three deep learning models to see which performs best.
+The project classifies satellite photos into 10 land types, such as forest, river, and residential.
+
+EuroSAT has 27,000 small photos. The group uses one shared split so three models see the same train, validation, and test images. Ahmed’s Model A is a CNN built from scratch. Akua, Model B, is MobileNetV2 starting from ImageNet weights. Sai’s Model C is EfficientNetB0.
+
+The goal is to compare which model is most accurate on the same test set and select that. 
+
 
 **Course:** AAI-521 Applied Computer Vision for AI 
  

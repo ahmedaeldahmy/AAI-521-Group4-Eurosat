@@ -1,0 +1,8 @@
+{
+  "model": "MobileNetV2",
+  "test_loss": 0.13012006878852844,
+  "test_accuracy": 0.9553086161613464,
+  "macro_precision": 0.9537566801882338,
+  "macro_recall": 0.9536,
+  "macro_f1": 0.9536110931459234
+}
