@@ -1,0 +1,4 @@
+# Local data and trained weights (download / regenerate; do not commit)
+raw_dataset/
+models/
+.ipynb_checkpoints/
